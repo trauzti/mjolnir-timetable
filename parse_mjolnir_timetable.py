@@ -17,7 +17,6 @@ divs = parsed_html.body.findAll('div')
 for div in divs:
     parse_day_class(div)
 
-
 for index in range(1,8):
     index_string = "day-%d" % index
     info = days[index_string]
@@ -30,10 +29,5 @@ for index in range(1,8):
         key = spans[k].attrs[0][1]
         value = spans[k].string.replace("kl. ", "").replace("Kennari: ", "")
         timetable[index_string][-1][key] = value
-        #if k % 4 == 3:
-        #    print timetable[index_string][-1]
 
-#print timetable
 print json.dumps(timetable, encoding='iso-8859-1')
-
-
