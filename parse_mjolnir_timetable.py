@@ -21,6 +21,7 @@ for div in divs:
 for index in range(1,8):
     index_string = "day-%d" % index
     info = days[index_string]
+    index_string = index_string.replace("-", "_")
     spans = info.findAll("span")
     timetable[index_string] = []
     for k in range(len(spans)):
