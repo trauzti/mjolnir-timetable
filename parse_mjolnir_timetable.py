@@ -14,6 +14,16 @@ page = requests.get('http://www.mjolnir.is')
 parsed_html = BeautifulSoup(page.text)
 divs = parsed_html.body.findAll('div')
 
+index_map = {
+    "day_1": "mon",
+    "day_2": "tue",
+    "day_3": "wed",
+    "day_4": "thu",
+    "day_5": "fri",
+    "day_6": "sat",
+    "day_7": "sun",
+}
+
 for div in divs:
     parse_day_class(div)
 
@@ -22,12 +32,16 @@ for index in range(1,8):
     info = days[index_string]
     index_string = index_string.replace("-", "_")
     spans = info.findAll("span")
-    timetable[index_string] = []
+    timetable[index_map[index_string]] = [{}]
+    seen_keys = {}
     for k in range(len(spans)):
-        if k % 4 == 0:
-            timetable[index_string].append({})
         key = spans[k].attrs[0][1]
+        if key in seen_keys:
+            timetable[index_map[index_string]].append({})
+            seen_keys = {}
+        seen_keys[key] = 1
         value = spans[k].string.replace("kl. ", "").replace("Kennari: ", "")
-        timetable[index_string][-1][key] = value
+        timetable[index_map[index_string]][-1][key] = value
+
 
 print json.dumps(timetable, encoding='iso-8859-1')
