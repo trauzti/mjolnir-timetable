@@ -7,12 +7,6 @@
       "title": "Víkingaþrek"
     },
     {
-      "teacher": "Gyða Erlingsdóttir",
-      "time": "11:10",
-      "room": "Salur 2",
-      "title": "Víkingaþrek 101"
-    },
-    {
       "teacher": "Steinar Thors",
       "time": "12:10",
       "room": "Salur 2",
@@ -26,7 +20,7 @@
     },
     {
       "teacher": "Jón Viðar Arnþórsson",
-      "time": "13:00",
+      "time": "13:10",
       "room": "Salur 1",
       "title": "MMA CT"
     },
@@ -138,6 +132,12 @@
       "time": "13:10",
       "room": "Salur 3",
       "title": "Mjölnisyoga slökun"
+    },
+    {
+      "teacher": "Díana Rut Kristinsdóttir",
+      "time": "13:10",
+      "room": "Salur 1",
+      "title": "Valshamur"
     }
   ],
   "fri": [
@@ -306,16 +306,16 @@
       "title": "Nogi 201"
     },
     {
-      "teacher": "Ingibjörg Helga Arnþórsdóttir",
-      "time": "20:00",
-      "room": "Salur 2",
-      "title": "Kickbox 101"
-    },
-    {
       "teacher": "Axel Kristinsson",
       "time": "20:00",
       "room": "Salur 1",
       "title": "Mjölnir 101"
+    },
+    {
+      "teacher": "Ingibjörg Helga Arnþórsdóttir",
+      "time": "20:00",
+      "room": "Salur 2",
+      "title": "Kickbox 101"
     }
   ],
   "mon": [
@@ -324,12 +324,6 @@
       "time": "06:10",
       "room": "Salur 2",
       "title": "Víkingaþrek"
-    },
-    {
-      "teacher": "Gyða Erlingsdóttir",
-      "time": "11:10",
-      "room": "Salur 2",
-      "title": "Víkingaþrek 101"
     },
     {
       "teacher": "Steinar Thors",
@@ -345,7 +339,7 @@
     },
     {
       "teacher": "Jón Viðar Arnþórsson",
-      "time": "13:00",
+      "time": "13:10",
       "room": "Salur 1",
       "title": "MMA CT"
     },
@@ -532,16 +526,16 @@
       "title": "Nogi 201"
     },
     {
-      "teacher": "Ingibjörg Helga Arnþórsdóttir",
-      "time": "20:00",
-      "room": "Salur 2",
-      "title": "Kickbox 101"
-    },
-    {
       "teacher": "Axel Kristinsson",
       "time": "20:00",
       "room": "Salur 1",
       "title": "Mjölnir 101"
+    },
+    {
+      "teacher": "Ingibjörg Helga Arnþórsdóttir",
+      "time": "20:00",
+      "room": "Salur 2",
+      "title": "Kickbox 101"
     }
   ],
   "sat": [
@@ -576,15 +570,16 @@
       "title": "Víkingaþrek Unglingar"
     },
     {
-      "time": "13:00",
-      "room": "Salur 1",
-      "title": "Open Mat"
-    },
-    {
       "teacher": "Steinunn Þórðardóttir",
       "time": "13:10",
       "room": "Salur 3",
       "title": "Mjölnisyoga slökun"
+    },
+    {
+      "teacher": "Díana Rut Kristinsdóttir",
+      "time": "13:10",
+      "room": "Salur 1",
+      "title": "Valshamur"
     }
   ]
 }
