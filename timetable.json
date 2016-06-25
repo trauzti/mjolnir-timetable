@@ -20,7 +20,7 @@
     },
     {
       "teacher": "Jón Viðar Arnþórsson",
-      "time": "13:10",
+      "time": "13:00",
       "room": "Salur 1",
       "title": "MMA CT"
     },
@@ -37,16 +37,16 @@
       "title": "Börn 5-8 ára"
     },
     {
+      "teacher": "Axel Kristinsson",
+      "time": "17:00",
+      "room": "Salur 1",
+      "title": "MMA 201 unglingar"
+    },
+    {
       "teacher": "Steinar Thors",
       "time": "17:15",
       "room": "Salur 2",
       "title": "Víkingaþrek"
-    },
-    {
-      "teacher": "Axel Kristinsson",
-      "time": "17:15",
-      "room": "Salur 1",
-      "title": "MMA 201 Unglingar"
     },
     {
       "teacher": "Gyða Erlingsdóttir",
@@ -70,6 +70,12 @@
       "teacher": "Fabio Quaradeghini",
       "time": "18:00",
       "room": "Salur 2",
+      "title": "Box 201"
+    },
+    {
+      "teacher": "Fabio Quaradeghini",
+      "time": "18:00",
+      "room": "Salur 2",
       "title": "Box 301"
     },
     {
@@ -79,10 +85,10 @@
       "title": "BJJ 201"
     },
     {
-      "teacher": "Fabio Quaradeghini",
+      "teacher": "Jón Viðar Arnþórsson",
       "time": "19:00",
-      "room": "Salur 3",
-      "title": "Box 201"
+      "room": "Salur 2",
+      "title": "Kickbox 201"
     },
     {
       "teacher": "Jón Viðar Arnþórsson",
@@ -91,16 +97,16 @@
       "title": "Kickbox 301"
     },
     {
+      "teacher": "Díana Rut Kristinsdóttir",
+      "time": "19:00",
+      "room": "Salur 3",
+      "title": "Valshamur 201"
+    },
+    {
       "teacher": "Steinar Thors",
       "time": "20:00",
       "room": "Salur 2",
       "title": "Víkingaþrek"
-    },
-    {
-      "teacher": "Jón Viðar Arnþórsson",
-      "time": "20:00",
-      "room": "Salur 1",
-      "title": "Kickbox 201"
     },
     {
       "teacher": "Steinar Thors",
@@ -110,12 +116,6 @@
     }
   ],
   "sun": [
-    {
-      "teacher": "Gyða Erlingsdóttir",
-      "time": "10:30",
-      "room": "Salur 2",
-      "title": "Víkingaþrek"
-    },
     {
       "teacher": "Steinar Thors",
       "time": "12:10",
@@ -129,15 +129,9 @@
     },
     {
       "teacher": "Steinunn Þórðardóttir",
-      "time": "13:10",
+      "time": "13:00",
       "room": "Salur 3",
       "title": "Mjölnisyoga slökun"
-    },
-    {
-      "teacher": "Díana Rut Kristinsdóttir",
-      "time": "13:10",
-      "room": "Salur 1",
-      "title": "Valshamur"
     }
   ],
   "fri": [
@@ -160,28 +154,22 @@
       "title": "Nogi 201"
     },
     {
-      "teacher": "Steinar Thors",
-      "time": "16:30",
-      "room": "Salur 2",
-      "title": "Víkingaþrek"
-    },
-    {
       "teacher": "Axel Kristinsson",
       "time": "16:30",
       "room": "Salur 1",
       "title": "Börn 5-8 ára"
     },
     {
+      "teacher": "Axel Kristinsson",
+      "time": "17:00",
+      "room": "Salur 1",
+      "title": "Börn 8-13 ára"
+    },
+    {
       "teacher": "Steinar Thors",
       "time": "17:15",
       "room": "Salur 2",
       "title": "Víkingaþrek"
-    },
-    {
-      "teacher": "Axel Kristinsson",
-      "time": "17:15",
-      "room": "Salur 1",
-      "title": "Börn 8-13 ára"
     },
     {
       "teacher": "Gyða Erlingsdóttir",
@@ -205,16 +193,10 @@
       "teacher": "Bjarni Baldursson",
       "time": "18:00",
       "room": "Salur 1",
-      "title": "BJJ 201 OG 14 TIL 17 ÁRA"
+      "title": "BJJ 201 og 14 til 17 ára"
     }
   ],
   "tue": [
-    {
-      "teacher": "Gyða Erlingsdóttir",
-      "time": "11:30",
-      "room": "Salur 2",
-      "title": "Víkingaþrek"
-    },
     {
       "teacher": "Þráinn Kolbeinsson",
       "time": "12:10",
@@ -222,22 +204,16 @@
       "title": "BJJ 201"
     },
     {
-      "teacher": "Steinunn Þórðardóttir",
+      "teacher": "Steinar Thors",
       "time": "12:10",
-      "room": "Salur 3",
-      "title": "Mjölnisyoga slökun"
-    },
-    {
-      "teacher": "Gyða Erlingsdóttir",
-      "time": "12:15",
       "room": "Salur 2",
       "title": "Víkingaþrek"
     },
     {
-      "teacher": "Árni Ísaksson",
-      "time": "16:15",
-      "room": "Salur 1",
-      "title": "MMA"
+      "teacher": "Steinunn Þórðardóttir",
+      "time": "12:10",
+      "room": "Salur 3",
+      "title": "Mjölnisyoga slökun"
     },
     {
       "teacher": "Gyða Erlingsdóttir",
@@ -255,7 +231,7 @@
       "teacher": "Þráinn Kolbeinsson",
       "time": "17:00",
       "room": "Salur 1",
-      "title": "Nogi 301"
+      "title": "Nogi 201"
     },
     {
       "teacher": "Steinar Thors",
@@ -267,19 +243,13 @@
       "teacher": "Axel Kristinsson",
       "time": "17:15",
       "room": "Salur 3",
-      "title": "MMA 201 Unglingar"
+      "title": "MMA 201 unglingar"
     },
     {
       "teacher": "Jón Viðar Arnþórsson",
       "time": "18:00",
       "room": "Salur 1",
       "title": "MMA CT"
-    },
-    {
-      "teacher": "Axel Kristinsson",
-      "time": "18:00",
-      "room": "Salur 3",
-      "title": "MMA 101 Unglingar"
     },
     {
       "teacher": "Steinar Thors",
@@ -306,7 +276,7 @@
       "title": "Nogi 201"
     },
     {
-      "teacher": "Axel Kristinsson",
+      "teacher": "Þráinn Kolbeinsson",
       "time": "20:00",
       "room": "Salur 1",
       "title": "Mjölnir 101"
@@ -339,7 +309,7 @@
     },
     {
       "teacher": "Jón Viðar Arnþórsson",
-      "time": "13:10",
+      "time": "13:00",
       "room": "Salur 1",
       "title": "MMA CT"
     },
@@ -356,16 +326,16 @@
       "title": "Börn 5-8 ára"
     },
     {
+      "teacher": "Axel Kristinsson",
+      "time": "17:00",
+      "room": "Salur 1",
+      "title": "MMA 201 unglingar"
+    },
+    {
       "teacher": "Steinar Thors",
       "time": "17:15",
       "room": "Salur 2",
       "title": "Víkingaþrek"
-    },
-    {
-      "teacher": "Axel Kristinsson",
-      "time": "17:15",
-      "room": "Salur 1",
-      "title": "MMA 201 Unglingar"
     },
     {
       "teacher": "Gyða Erlingsdóttir",
@@ -389,6 +359,12 @@
       "teacher": "Fabio Quaradeghini",
       "time": "18:00",
       "room": "Salur 2",
+      "title": "Box 201"
+    },
+    {
+      "teacher": "Fabio Quaradeghini",
+      "time": "18:00",
+      "room": "Salur 2",
       "title": "Box 301"
     },
     {
@@ -398,10 +374,10 @@
       "title": "BJJ 201"
     },
     {
-      "teacher": "Fabio Quaradeghini",
+      "teacher": "Jón Viðar Arnþórsson",
       "time": "19:00",
-      "room": "Salur 3",
-      "title": "Box 201"
+      "room": "Salur 2",
+      "title": "Kickbox 201"
     },
     {
       "teacher": "Jón Viðar Arnþórsson",
@@ -410,16 +386,16 @@
       "title": "Kickbox 301"
     },
     {
+      "teacher": "Díana Rut Kristinsdóttir",
+      "time": "19:00",
+      "room": "Salur 3",
+      "title": "Valshamur 201"
+    },
+    {
       "teacher": "Steinar Thors",
       "time": "20:00",
       "room": "Salur 2",
       "title": "Víkingaþrek"
-    },
-    {
-      "teacher": "Jón Viðar Arnþórsson",
-      "time": "20:00",
-      "room": "Salur 1",
-      "title": "Kickbox 201"
     },
     {
       "teacher": "Steinar Thors",
@@ -430,34 +406,22 @@
   ],
   "thu": [
     {
-      "teacher": "Gyða Erlingsdóttir",
-      "time": "11:30",
-      "room": "Salur 2",
-      "title": "Víkingaþrek"
-    },
-    {
       "teacher": "Þráinn Kolbeinsson",
       "time": "12:10",
       "room": "Salur 1",
       "title": "BJJ 201"
     },
     {
-      "teacher": "Steinunn Þórðardóttir",
+      "teacher": "Steinar Thors",
       "time": "12:10",
-      "room": "Salur 3",
-      "title": "Mjölnisyoga styrkur"
-    },
-    {
-      "teacher": "Gyða Erlingsdóttir",
-      "time": "12:15",
       "room": "Salur 2",
       "title": "Víkingaþrek"
     },
     {
-      "teacher": "Árni Ísaksson",
-      "time": "16:15",
-      "room": "Salur 1",
-      "title": "MMA"
+      "teacher": "Steinunn Þórðardóttir",
+      "time": "12:10",
+      "room": "Salur 3",
+      "title": "Mjölnisyoga styrkur"
     },
     {
       "teacher": "Gyða Erlingsdóttir",
@@ -475,7 +439,7 @@
       "teacher": "Þráinn Kolbeinsson",
       "time": "17:00",
       "room": "Salur 1",
-      "title": "Nogi 301"
+      "title": "Nogi 201"
     },
     {
       "teacher": "Steinar Thors",
@@ -487,19 +451,13 @@
       "teacher": "Axel Kristinsson",
       "time": "17:15",
       "room": "Salur 3",
-      "title": "MMA 201 Unglingar"
+      "title": "MMA 201 unglingar"
     },
     {
       "teacher": "Jón Viðar Arnþórsson",
       "time": "18:00",
       "room": "Salur 1",
       "title": "MMA CT"
-    },
-    {
-      "teacher": "Axel Kristinsson",
-      "time": "18:00",
-      "room": "Salur 3",
-      "title": "MMA 101 Unglingar"
     },
     {
       "teacher": "Steinar Thors",
@@ -526,7 +484,7 @@
       "title": "Nogi 201"
     },
     {
-      "teacher": "Axel Kristinsson",
+      "teacher": "Þráinn Kolbeinsson",
       "time": "20:00",
       "room": "Salur 1",
       "title": "Mjölnir 101"
@@ -540,14 +498,8 @@
   ],
   "sat": [
     {
-      "teacher": "Steinar Thors",
-      "time": "11:10",
-      "room": "Salur 2",
-      "title": "Víkingaþrek"
-    },
-    {
       "teacher": "Þráinn Kolbeinsson",
-      "time": "11:10",
+      "time": "11:00",
       "room": "Salur 1",
       "title": "BJJ CT"
     },
@@ -564,22 +516,10 @@
       "title": "Víkingaþrek"
     },
     {
-      "teacher": "Steinar Thors",
-      "time": "13:00",
-      "room": "Salur 2",
-      "title": "Víkingaþrek Unglingar"
-    },
-    {
       "teacher": "Steinunn Þórðardóttir",
-      "time": "13:10",
+      "time": "13:00",
       "room": "Salur 3",
       "title": "Mjölnisyoga slökun"
-    },
-    {
-      "teacher": "Díana Rut Kristinsdóttir",
-      "time": "13:10",
-      "room": "Salur 1",
-      "title": "Valshamur"
     }
   ]
 }
