@@ -107,6 +107,12 @@
       "time": "20:00",
       "room": "Salur 3",
       "title": "Box 101"
+    },
+    {
+      "teacher": "Steinar Thors",
+      "time": "20:00",
+      "room": "Salur 3",
+      "title": "Box 101"
     }
   ],
   "sun": [
@@ -316,6 +322,12 @@
       "time": "20:00",
       "room": "Salur 2",
       "title": "Kickbox 101"
+    },
+    {
+      "teacher": "Axel Kristinsson",
+      "time": "20:00",
+      "room": "Salur 1",
+      "title": "Mjölnir 101"
     }
   ],
   "mon": [
@@ -432,6 +444,12 @@
       "time": "20:00",
       "room": "Salur 3",
       "title": "Box 101"
+    },
+    {
+      "teacher": "Steinar Thors",
+      "time": "20:00",
+      "room": "Salur 3",
+      "title": "Box 101"
     }
   ],
   "thu": [
@@ -536,6 +554,12 @@
       "time": "20:00",
       "room": "Salur 2",
       "title": "Kickbox 101"
+    },
+    {
+      "teacher": "Axel Kristinsson",
+      "time": "20:00",
+      "room": "Salur 1",
+      "title": "Mjölnir 101"
     }
   ],
   "sat": [
