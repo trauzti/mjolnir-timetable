@@ -107,12 +107,6 @@
       "time": "20:00",
       "room": "Salur 3",
       "title": "Box 101"
-    },
-    {
-      "teacher": "Steinar Thors",
-      "time": "20:00",
-      "room": "Salur 3",
-      "title": "Box 101"
     }
   ],
   "sun": [
@@ -235,7 +229,7 @@
     },
     {
       "teacher": "Steinunn Þórðardóttir",
-      "time": "12:10",
+      "time": "13:00",
       "room": "Salur 3",
       "title": "Mjölnisyoga slökun"
     },
@@ -438,12 +432,6 @@
       "time": "20:00",
       "room": "Salur 3",
       "title": "Box 101"
-    },
-    {
-      "teacher": "Steinar Thors",
-      "time": "20:00",
-      "room": "Salur 3",
-      "title": "Box 101"
     }
   ],
   "thu": [
@@ -461,7 +449,7 @@
     },
     {
       "teacher": "Steinunn Þórðardóttir",
-      "time": "12:10",
+      "time": "13:00",
       "room": "Salur 3",
       "title": "Mjölnisyoga styrkur"
     },
